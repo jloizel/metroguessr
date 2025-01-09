@@ -33,6 +33,8 @@ I developed this project to push myself beyond tutorials and online courses, lea
 
 Completing this project not only enhanced my skills in React and TypeScript but also deepened my understanding of full-stack development, problem-solving, and deployment in a production environment. It was especially gratifying to see it featured in various media outlets like *Time Out Paris* and *Le Bonbon*.
 
+Note: The source code for this project is currently private to protect intellectual property and ensure secure development. If you are interested in collaboration or have inquiries, feel free to reach out.
+
 
 ### Built With (***non-exhaustive***)
 
